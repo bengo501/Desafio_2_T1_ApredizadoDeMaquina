@@ -1,0 +1,6 @@
+cópia do melhor proxy -> C:\Users\joxto\Downloads\Desafio_2_T1_ApredizadoDeMaquina\submission.csv
+top 1 -> submission_rank01_proxy0.6338.csv
+top 2 -> submission_rank02_proxy0.6310.csv
+top 3 -> submission_rank03_proxy0.6310.csv
+top 4 -> submission_rank04_proxy0.6305.csv
+top 5 -> submission_rank05_proxy0.6305.csv
